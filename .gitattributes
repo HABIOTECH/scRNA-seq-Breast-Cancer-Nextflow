@@ -1,4 +1,4 @@
- Exclude generated outputs from language statistics
+# Exclude generated outputs from language statistics
 results/** linguist-generated
 *.html linguist-generated
 

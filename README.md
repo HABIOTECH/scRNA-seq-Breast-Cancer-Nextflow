@@ -8,7 +8,7 @@ An automated and reproducible Nextflow workflow for processing 10x Genomics sing
 
 **Horizon Science Communication LLC — Bioinformatics Team**
 
-- **Dr. Hesham Abdullah**
+- **Hesham Abdullah, PhD**
 - **Mohamed Elsisi**
 
 ## Project Background

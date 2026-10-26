@@ -1,0 +1,15 @@
+name: scanpy_env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - scanpy=1.11
+  - anndata
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - python-igraph
+  - pip

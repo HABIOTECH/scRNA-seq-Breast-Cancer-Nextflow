@@ -1,0 +1,38 @@
+name: nxf_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - _openmp_mutex=4.5
+  - ca-certificates=2026.7.22
+  - coreutils=8.25
+  - cromwell=0.35
+  - curl=7.71.1
+  - findutils=4.10.0
+  - graalpy=23.0.0
+  - graalpy-graalvm=23.0.0
+  - krb5=1.17.2
+  - libcurl=7.71.1
+  - libedit=3.1.20250104
+  - libgcc=16.2.0
+  - libgcc-ng=16.2.0
+  - libgomp=16.2.0
+  - libssh2=1.10.0
+  - libstdcxx=16.2.0
+  - libstdcxx-ng=16.2.0
+  - libzlib=1.2.13
+  - ncurses=6.6
+  - nextflow=26.04.6
+  - openjdk=17.0.7.4
+  - openssl=1.1.1w
+  - packaging=26.3
+  - patch=2.8
+  - pip=26.2.1
+  - python=3.10.8
+  - python_abi=3.10
+  - setuptools=84.0.0
+  - tk=8.6.13
+  - wheel=0.48.0
+  - womtool=36
+  - zlib=1.2.13

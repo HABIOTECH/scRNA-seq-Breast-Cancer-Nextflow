@@ -1,0 +1,7 @@
+sample	estimated_cells	reads_in_cells_pct	median_genes_per_cell	median_UMI_per_cell	confident_transcriptome_mapping_pct
+BBM0	9369	91.5	4285	13599	81.8
+BBM5	12610	80	5355	23144	84.2
+BSM1	9974	81	3916	12052	85.6
+hMG1	14846	86	3069	9877	73
+hMG2	14769	93.6	3444	11909	78.8
+hMG3	15610	92.8	2968	8506	60.8

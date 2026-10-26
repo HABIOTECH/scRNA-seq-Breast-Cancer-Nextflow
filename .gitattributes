@@ -1,0 +1,7 @@
+ Exclude generated outputs from language statistics
+results/** linguist-generated
+*.html linguist-generated
+
+# Make sure workflow code is detected correctly
+*.nf linguist-language=Nextflow
+nextflow.config linguist-language=Nextflow
